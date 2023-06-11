@@ -4,7 +4,7 @@ import cat.barcelonactiva.itacademy.Ex2_1_Observer.interfaces.Observer;
 import cat.barcelonactiva.itacademy.Ex2_1_Observer.models.BrokerageFirm;
 import cat.barcelonactiva.itacademy.Ex2_1_Observer.models.StockBroker;
 
-public class App {
+public class Main {
     public static void main(String[] args) {
 
         StockBroker sb = new StockBroker();

@@ -7,7 +7,7 @@ import cat.barcelonactiva.itacademy.Ex1_3_Command.models.Boat;
 import cat.barcelonactiva.itacademy.Ex1_3_Command.models.Car;
 import cat.barcelonactiva.itacademy.Ex1_3_Command.services.Parking;
 
-public class App {
+public class Main {
 
     public static void main(String[] args) {
 

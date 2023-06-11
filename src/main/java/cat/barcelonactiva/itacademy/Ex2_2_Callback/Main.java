@@ -7,7 +7,7 @@ import cat.barcelonactiva.itacademy.Ex2_2_Callback.models.Order;
 import cat.barcelonactiva.itacademy.Ex2_2_Callback.models.PaypalPayment;
 import cat.barcelonactiva.itacademy.Ex2_2_Callback.services.ShoeStore;
 
-public class App {
+public class Main {
     public static void main(String[] args) {
         Store shoeStore = new ShoeStore();
 

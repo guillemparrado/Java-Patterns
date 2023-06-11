@@ -7,7 +7,7 @@ import cat.barcelonactiva.itacademy.Ex2_3_Dependency_Injection.model.Price;
 import cat.barcelonactiva.itacademy.Ex2_3_Dependency_Injection.utils.CurrencyConverter;
 import cat.barcelonactiva.itacademy.Ex2_3_Dependency_Injection.utils.PriceLogger;
 
-public class App {
+public class Main {
     public static void main(String[] args) {
 
         Currency eur = new Currency("Euro", "€", 2);
